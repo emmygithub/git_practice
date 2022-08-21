@@ -1,2 +1,2 @@
 # I believe this was my first shell practice
-More practice coming soon.
+Still trying to understand shell but am geting the hang of it.
